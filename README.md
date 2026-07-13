@@ -119,10 +119,6 @@ Projeto de análise textual das publicações de candidatos às prefeituras das 
 
 <div align="center">
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gioovalentina\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=gioovalentina\&layout=compact\&theme=tokyonight\&hide_border=true)
-
 ![Sequência de contribuições](https://streak-stats.demolab.com?user=GiooEsteves\&theme=tokyonight\&hide_border=true)
 
 </div>
