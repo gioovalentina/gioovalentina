@@ -1,4 +1,4 @@
-# Olá, eu sou Giovanna Esteves!
+# Giovanna Esteves
 
 ### Cientista de Dados | Python | Machine Learning | NLP | Análise de Dados
 
