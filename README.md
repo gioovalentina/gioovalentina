@@ -10,7 +10,7 @@ Atualmente, estou aprofundando meus conhecimentos em Ciência de Dados por meio 
 
 ## 👩‍💻 Sobre mim
 
-* 🎓 Graduada em Computação pela Universidade de Pernambuco(UPE).
+* 🎓 Graduada em Sistemas de Informação pela Universidade de Pernambuco (UPE).
 * 📊 Estudando Ciência de Dados, Machine Learning e Inteligência Artificial.
 * 🧠 Interesse especial em Processamento de Linguagem Natural e mineração de dados.
 * 🔍 Gosto de transformar problemas reais em soluções orientadas por dados.
