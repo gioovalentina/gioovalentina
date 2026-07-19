@@ -1,4 +1,4 @@
-# Giovanna Esteves
+# Giovanna Valentina Esteves
 
 ### Cientista de Dados | Python | Machine Learning | NLP | Análise de Dados
 
@@ -8,7 +8,7 @@ Atualmente, estou aprofundando meus conhecimentos em Ciência de Dados por meio 
 
 ---
 
-## 👩‍💻 Sobre mim
+## Sobre mim
 
 * 🎓 Graduada em Sistemas de Informação pela Universidade de Pernambuco (UPE).
 * 📊 Estudando Ciência de Dados, Machine Learning e Inteligência Artificial.
@@ -19,7 +19,7 @@ Atualmente, estou aprofundando meus conhecimentos em Ciência de Dados por meio 
 
 ---
 
-## 🛠️ Tecnologias e ferramentas
+## Tecnologias e ferramentas
 
 ### Linguagens
 
@@ -47,7 +47,7 @@ Atualmente, estou aprofundando meus conhecimentos em Ciência de Dados por meio 
 
 ---
 
-## 📊 Áreas de interesse
+## Áreas de interesse
 
 * Análise Exploratória de Dados
 * Machine Learning
@@ -62,7 +62,7 @@ Atualmente, estou aprofundando meus conhecimentos em Ciência de Dados por meio 
 
 ---
 
-## 🚀 Projetos em destaque
+## Projetos em destaque
 
 ### 🔗 Modelink
 
@@ -104,7 +104,7 @@ Projeto de análise textual das publicações de candidatos às prefeituras das 
 
 ---
 
-## 📌 Projetos que estou desenvolvendo
+## Projetos que estou desenvolvendo
 
 * Dashboard interativo para análise de indicadores educacionais.
 * Modelo de previsão de evasão escolar.
@@ -115,7 +115,7 @@ Projeto de análise textual das publicações de candidatos às prefeituras das 
 
 ---
 
-## 📈 Estatísticas do GitHub
+## Estatísticas do GitHub
 
 <div align="center">
 
@@ -125,7 +125,7 @@ Projeto de análise textual das publicações de candidatos às prefeituras das 
 
 ---
 
-## 🎯 Objetivos profissionais
+## Objetivos profissionais
 
 Busco oportunidades na área de dados nas quais eu possa aplicar conhecimentos de programação, estatística e Machine Learning para solucionar problemas reais, gerar informações relevantes e auxiliar na tomada de decisões.
 
@@ -138,7 +138,7 @@ Tenho interesse em atuar como:
 
 ---
 
-## 📫 Entre em contato
+## Entre em contato
 
 <div align="left">
 
