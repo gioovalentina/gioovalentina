@@ -1,4 +1,4 @@
-# Giovanna Valentina Esteves
+# Giovanna Valentina de Andrade
 
 ### Cientista de Dados | Python | Machine Learning | NLP | Análise de Dados
 
