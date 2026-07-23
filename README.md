@@ -104,17 +104,6 @@ Projeto de análise textual das publicações de candidatos às prefeituras das 
 
 ---
 
-## Projetos que estou desenvolvendo
-
-* Dashboard interativo para análise de indicadores educacionais.
-* Modelo de previsão de evasão escolar.
-* Sistema de recomendação de livros.
-* Análise de sentimentos em publicações de redes sociais.
-* Previsão de preços utilizando modelos de regressão.
-* Pipeline de dados com coleta, tratamento, modelagem e disponibilização por API.
-
----
-
 ## Estatísticas do GitHub
 
 <div align="center">
